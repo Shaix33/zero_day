@@ -1,3 +1,7 @@
 # Zero day
+
+My first vagrant project
+
 ## Hello Ubuntu
-### My first vagrant project
+
+Installing vagrant and running Ubuntu OS in a VM.
